@@ -1,0 +1,8 @@
+Control: 3D Print in Current Grinder,1.0,8.5,10.0,0.0,0.0,xx
+3D Print Rafts and Supports in Current Grinder,21.0,30.5,16.0,9.5,0.0,xx
+Thin PET Bottle in Current Grinder,4.5,3.5,1.5,0.0,0.0
+Crushed PET Bottle in Current Grinder,5.0,5.5,3.5,0.5,0.0
+Heat Deformed PET Bottle in Current Grinder,3.5,4.5,1.5,0.5,0.0
+Thin PET Plastic in Coffee Grinder,1.5,1.5,3,3.5,2.5
+Pre-Shredded 3D Print Rafts in Coffee Grinder,0.5,6,12.5,2.5,2
+Pre-Shredded PET Bottle in Coffee Grinder,6.5,2.5,1,0,0
