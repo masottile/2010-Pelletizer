@@ -1,5 +1,10 @@
-Control: 3D Print in Current Grinder,1.0,8.5,10.0,0.0,0.0,xx
-3D Print Rafts and Supports in Current Grinder,21.0,30.5,16.0,9.5,0.0,xx
+Preliminary Testing Results file
+First column: Material and Grinder
+Data Series: Weight of output in each size range
+
+Material and Grinder, >5mm, 3-5mm, 1.5-3mm, 0.75-1.5mm, <0.75mm, xx (do not include this line)
+Control: 3D Print in Current Grinder,1.0,8.5,10.0,0.0,0.0
+3D Print Rafts and Supports in Current Grinder,21.0,30.5,16.0,9.5,0.0
 Thin PET Bottle in Current Grinder,4.5,3.5,1.5,0.0,0.0
 Crushed PET Bottle in Current Grinder,5.0,5.5,3.5,0.5,0.0
 Heat Deformed PET Bottle in Current Grinder,3.5,4.5,1.5,0.5,0.0

@@ -1,4 +1,9 @@
-import matplotlib.pyplot as plt
+"""
+Data Analysis and Graphing for preliminary testing.
+Reads in a text file and creates a bar graph showing percentage of output by weight in each size category
+"""
+
+ matplotlib.pyplot as plt
 import numpy as np
 from matplotlib.ticker import FuncFormatter
 
